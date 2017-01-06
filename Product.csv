@@ -1,0 +1,21 @@
+﻿id,name,ageGroup,category,cost,price,margin,origin
+1,Tria Teether,1,1,£42.19,£51.00,17%,1
+2,Peony Teether,1,1,£43.78,£51.50,15%,1
+3,Dried Pea Wooden Rattle,1,2,£41.79,£50.00,16%,2
+4,Count With Me,2,3,£57.98,£70.00,17%,3
+5,Animals Colouring Book,3,4,£27.46,£30.00,8%,4
+6,Farmyard Colouring Book,3,4,£27.46,£30.00,8%,4
+7,Alphabet Play Mat,1,5,£66.11,£88.00,25%,4
+8,Picture Match Game,3,3,£52.21,£65.50,20%,3
+9,Shape Match Game,2,3,£52.21,£65.50,20%,3
+10,Rainbow Blocks,2,2,£52.49,£65.00,19%,1
+11,Ultra Deluxe Crayon Set,3,4,£27.95,£30.00,7%,4
+12,Dozy Faces Night Light,1,5,£60.99,£90.00,32%,4
+13,Little People Rainbow World,2,5,£70.54,£90.00,22%,1
+14,Baby Unicorn Hatcher,3,6,£69.99,£100.00,30%,4
+15,Doris the Daisy,1,6,£29.94,£31.50,5%,1
+16,Boules and Skittles,3,4,£49.25,£60.00,18%,2
+17,Pattern Board,3,3,£39.88,£43.50,8%,2
+18,Tee-Tum-Toe,1,2,£26.32,£30.00,12%,1
+19,Clatterbox,1,2,£43.58,£52.00,16%,2
+20,Click Chick,1,2,£37.47,£41.50,10%,2
